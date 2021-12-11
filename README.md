@@ -17,7 +17,7 @@
 
 #### 使用说明
 
-1.  vs编译的，用了点win32函数
+1. Visual Studio2019编译的，用了点win32函数
 2.  xxxx
 3.  xxxx
 
